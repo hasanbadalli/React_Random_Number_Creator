@@ -17,7 +17,7 @@ function App() {
     console.log(maxVal);
   }
   return (
-    <div>
+    <div class="main">
       <div className="container">
         <div className="randomNum">
           <p>Random Number: {randomNum}</p>
